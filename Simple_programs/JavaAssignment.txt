@@ -1,0 +1,8 @@
+Java Assignment
+Consider the scenario to start a service like makemytrip.com 
+where we are responsible for displaying the flights from various flight service 
+company and place an order from customer. Create an interface with two method 
+flight_details and booking. Use two classes Emirates and AirIndia to implement the 
+methods in the interface. For booking ticket the user enters 3 digit ATM pin number. 
+An OTP is generated which is the sum of digits of pin number entered. 
+Write a Java program to create the interface and to generate the OTP.
